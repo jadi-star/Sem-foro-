@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+main{
+    display: flex;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    gap: 5vh;
+}
+
+.button{
+   width:  100px;
+   height: 30px;
+   border-radius: 6px;
+
+}
+
+#red{
+    color: red;
+}
+
+#yellow{
+    color: rgb(188, 188, 17);
+}
+
+#green{
+
+    color: green;
+}
